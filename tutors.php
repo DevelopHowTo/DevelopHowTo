@@ -1,4 +1,4 @@
-test
+
 <?php include("./includes/header2.php"); ?>
     <main>
 
@@ -21,43 +21,83 @@ test
             </div>
         </section><br><br><hr>
         <section class="section features-carousel b-b">
-            <div class="container pt-0">
-                <center><h2 class="bold">Events.</h2></center>
-                <?php
-                $query = "SELECT * FROM events ORDER BY id DESC";
-                $run = mysqli_query($link,$query);
-                if(mysqli_num_rows($run) > 0){
-                 ?>
-                <div class="swiper-container" data-sw-show-items="4" data-sw-autoplay="3500000" data-sw-loop="true" data-sw-nav-arrows=".features-nav" data-sw-breakpoints='{"1024": {"slidesPerView": 4,"spaceBetween": 40},"992": {"slidesPerView": 3,"spaceBetween": 30},"768": {"slidesPerView": 2,"spaceBetween": 30},"576": {"slidesPerView": 1,"spaceBetween": 10}}'>
-                    <div class="swiper-wrapper px-1">
-                        <?php
-                       while($row = mysqli_fetch_array($run)){
-                         $id = $row['id'];
-                         $title = ucfirst($row['title']);
-                        $reg_fees = $row['reg_fees'];
-                        $tags = $row['tag'];
-                         $intro = ucfirst($row['intro']);
-                      ?>
-                        <div class="swiper-slide px-2 px-sm-1 py--4">
-                            <a href="event_reg.php?event_id=<?php echo $id; ?>" style="color:#002;"><div class="card border-0 shadow">
-                                <div class="card-body">
-                                    <div class="rounded-circle bg-6 p-3 d-flex align-items-center justify-content-center shadow icon-xl"><img src="images/iot-svg.svg" class="img-responsive" alt=""></div>
-                                    <h4 class="mt-4"><span style="font-size: 0.8em; color:purple;"><?php echo $tags; ?></span><br><span class="bold"><?php echo $title; ?></span></h4>
-                                    <p><?php echo $intro; ?></p>
-                                    <p><strong>Registration Fees</strong>: ₹ <?php echo $reg_fees; ?></p>
-                                </div>
-                            </div></a>
+            
+<div class="container">
+                    <div class="row">
+                        <div class="heading-title text-center">
+                            <h3 class="text-uppercase">Our Team and Tutors </h3>
+                            <p class="p-top-30 half-txt">These highly qualified professionals are going to deliver to you the latest knowledge about the trending technologies. </p>
                         </div>
-                        <?php } ?>
-                    </div><!-- Add Arrows -->
-                    <div class="accent features-nav features-nav-next"><span class="text-uppercase small">Next</span> <i class="features-nav-icon"></i></div>
+
+                        <div class="col-md-4 col-sm-4">
+                            <div class="team-member">
+                                <div class="team-img">
+                                    <img src="images/shivam.jpeg" alt="team member" class="img-responsive">
+                                </div>
+                                <div class="team-hover">
+                                    <div class="desk">
+                                        <h4>Web Developer Instructor (JS, React, Node)</h4>
+                                    </div>
+                                    <div class="s-link">
+                                        <a href="https://www.facebook.com/shivam.kumar.79"><i class="fa fa-facebook"></i></a>
+                                        <a href="https://www.linkedin.com/in/shivam-kumar-85a660164/"><i class="fa fa-linkedin"></i></a>
+                                        
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="team-title">
+                                <h5>Shivam Kumar</h5>
+                                <span>Co-founder & COO</span>
+                            </div>
+                        </div>
+                        <div class="col-md-4 col-sm-4">
+                            <div class="team-member">
+                                <div class="team-img">
+                                    <img src="images/prateek.jpeg" alt="team member" class="img-responsive">
+                                </div>
+                                <div class="team-hover">
+                                    <div class="desk">
+                                        <h4>Android, IOT Mentor and Instructor</h4>
+                                        
+                                    </div>
+                                    <div class="s-link">
+                                        <a href="https://www.facebook.com/prateek.gaur.127"><i class="fa fa-facebook"></i></a>
+                                        <a href="https://www.linkedin.com/in/prateek-gaur-a6b2b010b/"><i class="fa fa-linkedin"></i></a>
+                                        
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="team-title">
+                                <h5>Prateek Gaur</h5>
+                                <span>Android Development Head</span>
+                            </div>
+                        </div>
+                        <div class="col-md-4 col-sm-4">
+                            <div class="team-member">
+                                <div class="team-img">
+                                    <img src="images/shivay.jpeg" alt="team member" class="img-responsive">
+                                </div>
+                                <div class="team-hover">
+                                    <div class="desk">
+                                        <h4>Web Development Instructor</h4>
+                                        
+                                    </div>
+                                    <div class="s-link">
+                                       
+                                        <a href="https://www.linkedin.com/in/shivaylamba/"><i class="fa fa-linkedin"></i></a>
+                                      
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="team-title">
+                                <h5>Shivay Lamba</h5>
+                                <span>Co-Founder CEO</span>
+                            </div>
+                        </div>
+
+                    </div>
+
                 </div>
-                <?php
-                    }else {
-                      echo "<center><h2>No Events Available at this time.</h2><br><hr></center>";
-                    }
-                 ?>
-            </div>
         </section>
 
     </main>
