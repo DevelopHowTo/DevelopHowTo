@@ -22,7 +22,7 @@
         </header><!-- Features Carousel -->
 
         <?php include("./includes/domains.php"); ?>
-        
+
 
          <section class="section bg-7  edge bottom-right">
             <div class="container bring-to-front">
@@ -137,7 +137,7 @@
                     <div class="col-md-3 mx-auto py-4 py-md-0">
                         <blockquote class="bold mt-1 color-1">You have to see failure as the beginning and the middle, but never entertain it as an end. <span class="bold">DevelopHowTo, Development Program</span> is the perfect Place for students and teachers to learn new skills and start developing something new.</blockquote>
                         <hr class="my-4">
-                        <div class="small color-1"><span class="bold d-block">Shivam Kumar,</span> COO & Co-Founder of DevelopHowTo Inc.</div>
+                        <div class="small color-1"><span class="bold d-block">Shivam Kumar,</span> COO & Co-Founder of DevelopHowTo LLC.</div>
                     </div>
                 </div>
             </div>
