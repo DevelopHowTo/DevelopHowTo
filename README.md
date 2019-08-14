@@ -1,2 +1,0 @@
-# DevelopHowTo
-DevelopHowTo Official Website

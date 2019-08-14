@@ -1,4 +1,0 @@
-User-agent: *
-Disallow: /payment/
-Disallow: /css/
-Disallow: /js/
