@@ -52,21 +52,21 @@
                                                     <li class="wow zoomIn" data-wow-duration="1s" data-wow-delay=".1s">
                                                         <a href="#team-1" data-team="team-1">
                                                             <figure>
-                                                                <img src="http://echotheme.com/naive-v2/static-image/img/man/1.jpg" alt="Team Member image One">
+                                                                <img src="./img/shivay.jpg" alt="Team Member image One">
                                                             </figure>
                                                         </a>
                                                     </li>
                                                     <li class="active wow zoomIn" data-wow-duration="1s" data-wow-delay=".3s">
                                                         <a href="#team-2" data-team="team-2">
                                                             <figure>
-                                                                <img src="http://echotheme.com/naive-v2/static-image/img/man/2.jpg" alt="Team Member image two">
+                                                                <img src="./img/shivam.jpeg" alt="Team Member image two">
                                                             </figure>
                                                         </a>
                                                     </li>
                                                     <li class="wow zoomIn" data-wow-duration="1s" data-wow-delay=".5s">
                                                         <a href="#team-3" data-team="team-3">
                                                             <figure>
-                                                                <img src="http://echotheme.com/naive-v2/static-image/img/man/3.jpg" alt="Team Member image three">
+                                                                <img src="./img/piyush.jpg" alt="Team Member image three">
                                                             </figure>
                                                         </a>
                                                     </li>
@@ -86,12 +86,12 @@
 
                                             <div id="team-1" class="team-single">
                                                 <div class="team-img">
-                                                    <img src="http://echotheme.com/naive-v2/static-image/img/man/1.jpg" alt="">
+                                                    <img src="./img/shivay.jpg" alt="">
                                                     <div class="team-social">
                                                         <ul>
                                                             <li><a href=""><i class="fa fa-facebook"></i></a></li>
                                                             <li><a href=""><i class="fa fa-twitter"></i></a></li>
-                                                            <li><a href=""><i class="fa fa-google-plus"></i></a></li>
+                                                            <li><a href=""><i class="fa fa-github"></i></a></li>
                                                             <li><a href=""><i class="fa fa-linkedin"></i></a></li>
                                                         </ul>
                                                     </div>
@@ -99,8 +99,8 @@
                                                 </div>
                                                 <!-- END team-img-->
                                                 <div class="team-info text-center">
-                                                    <h4>Andy Maray</h4>
-                                                    <p>Founder &amp; CEO</p>
+                                                    <h4>Shivay Lamba</h4>
+                                                    <p>WebDeveloper &amp; AI/ML</p>
                                                 </div>
                                                 <!-- END team-info-->
                                             </div>
@@ -109,12 +109,12 @@
 
                                             <div id="team-2" class="team-single active">
                                                 <div class="team-img">
-                                                    <img src="http://echotheme.com/naive-v2/static-image/img/man/2.jpg" alt="">
+                                                    <img src="./img/shivam.jpeg" alt="">
                                                     <div class="team-social">
                                                         <ul>
                                                             <li><a href=""><i class="fa fa-facebook"></i></a></li>
                                                             <li><a href=""><i class="fa fa-twitter"></i></a></li>
-                                                            <li><a href=""><i class="fa fa-google-plus"></i></a></li>
+                                                            <li><a href=""><i class="fa fa-github"></i></a></li>
                                                             <li><a href=""><i class="fa fa-linkedin"></i></a></li>
                                                         </ul>
                                                     </div>
@@ -122,8 +122,8 @@
                                                 </div>
                                                 <!-- END team-img-->
                                                 <div class="team-info text-center">
-                                                    <h4>Gustavo Souza</h4>
-                                                    <p>Naive Designer</p>
+                                                    <h4>Shivam Kumar</h4>
+                                                    <p>MERN Stack</p>
                                                 </div>
                                                 <!-- END team-info-->
                                             </div>
@@ -132,12 +132,12 @@
 
                                             <div id="team-3" class="team-single">
                                                 <div class="team-img">
-                                                    <img src="http://echotheme.com/naive-v2/static-image/img/man/3.jpg" alt="">
+                                                    <img src="./img/piyush.jpg" alt="">
                                                     <div class="team-social">
                                                         <ul>
                                                             <li><a href=""><i class="fa fa-facebook"></i></a></li>
                                                             <li><a href=""><i class="fa fa-twitter"></i></a></li>
-                                                            <li><a href=""><i class="fa fa-google-plus"></i></a></li>
+                                                            <li><a href=""><i class="fa fa-github"></i></a></li>
                                                             <li><a href=""><i class="fa fa-linkedin"></i></a></li>
                                                         </ul>
                                                     </div>
@@ -145,8 +145,8 @@
                                                 </div>
                                                 <!-- END team-img-->
                                                 <div class="team-info text-center">
-                                                    <h4>Nikolaos Markopoulos</h4>
-                                                    <p>Developer</p>
+                                                    <h4>Piyush</h4>
+                                                    <p>Internet of Things &amp; Web</p>
                                                 </div>
                                                 <!-- END team-info-->
                                             </div>
