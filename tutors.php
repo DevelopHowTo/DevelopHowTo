@@ -73,7 +73,7 @@
                                                     <li class="wow zoomIn" data-wow-duration="1s" data-wow-delay=".7s">
                                                         <a href="#team-4" data-team="team-4">
                                                             <figure>
-                                                                <img src="http://echotheme.com/naive-v2/static-image/img/man/4.jpg" alt="Team Member image four">
+                                                                <img src="./img/juhi.jpg" alt="Team Member image four">
                                                             </figure>
                                                         </a>
                                                     </li>
@@ -155,7 +155,7 @@
 
                                             <div id="team-4" class="team-single">
                                                 <div class="team-img">
-                                                    <img src="http://echotheme.com/naive-v2/static-image/img/man/4.jpg" alt="">
+                                                    <img src="./img/juhi.jpg" alt="">
                                                     <div class="team-social">
                                                         <ul>
                                                             <li><a href=""><i class="fa fa-facebook"></i></a></li>
@@ -168,8 +168,8 @@
                                                 </div>
                                                 <!-- END team-img-->
                                                 <div class="team-info text-center">
-                                                    <h4>Nur jaman</h4>
-                                                    <p>Developer</p>
+                                                    <h4>Juhi</h4>
+                                                    <p>Internet of Things &amp; Web</p>
                                                 </div>
                                                 <!-- END team-info-->
                                             </div>
