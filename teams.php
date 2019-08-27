@@ -34,9 +34,9 @@
                                         </div>
                                         <!-- END section-count-->
                                         <div class="section-text">
-                                            <h2 class="section-title">DevelopHowTo Tutors/Mentors</h2>
+                                            <h2 class="section-title">DevelopHowTo Team</h2>
                                             <p>
-                                                Your perfect landing page to present your app. Ignis re volorerovit qui offic tenimo minvenietur sus aut vid et adis est pressus.
+
                                             </p>
                                         </div>
                                         <!-- END section-text-->
@@ -49,21 +49,28 @@
                                         <div class="col-md-3 col-sm-4">
                                             <div class="team-list">
                                                 <ul>
-                                                    <li class="wow zoomIn" data-wow-duration="1s" data-wow-delay=".1s">
+                                                    <li class="active  wow zoomIn" data-wow-duration="1s" data-wow-delay=".1s">
                                                         <a href="#team-1" data-team="team-1">
                                                             <figure>
-                                                                <img src="./img/shivay.jpg" alt="Team Member image One">
+                                                                <img src="./img/shivay.jpg" alt="Shivay Lamba">
                                                             </figure>
                                                         </a>
                                                     </li>
-                                                    <li class="active wow zoomIn" data-wow-duration="1s" data-wow-delay=".3s">
+                                                    <li class="wow zoomIn" data-wow-duration="1s" data-wow-delay=".3s">
                                                         <a href="#team-2" data-team="team-2">
                                                             <figure>
-                                                                <img src="./img/shivam.jpeg" alt="Team Member image two">
+                                                                <img src="./img/shivam.jpeg" alt="Shivam Kumar">
                                                             </figure>
                                                         </a>
                                                     </li>
-                                                    
+                                                    <li class="wow zoomIn" data-wow-duration="1s" data-wow-delay=".3s">
+                                                        <a href="#team-3" data-team="team-3">
+                                                            <figure>
+                                                                <img src="./img/aakash.jpg" alt="Aakash Singh">
+                                                            </figure>
+                                                        </a>
+                                                    </li>
+
                                                 </ul>
                                             </div>
                                             <!-- END team-list-->
@@ -71,7 +78,7 @@
                                         <!-- END col-sm-4-->
                                         <div class="col-md-9 col-sm-8">
 
-                                            <div id="team-1" class="team-single">
+                                            <div id="team-1" class="team-single  active">
                                                 <div class="team-img">
                                                     <img src="./img/shivay.jpg" alt="">
                                                     <div class="team-social">
@@ -94,7 +101,7 @@
                                             <!-- END team-single-->
 
 
-                                            <div id="team-2" class="team-single active">
+                                            <div id="team-2" class="team-single">
                                                 <div class="team-img">
                                                     <img src="./img/shivam.jpeg" alt="">
                                                     <div class="team-social">
@@ -111,6 +118,28 @@
                                                 <div class="team-info text-center">
                                                     <h4>Shivam Kumar</h4>
                                                     <p>MERN Stack</p>
+                                                </div>
+                                                <!-- END team-info-->
+                                            </div>
+                                            <!-- END team-single-->
+
+                                            <div id="team-3" class="team-single">
+                                                <div class="team-img">
+                                                    <img src="./img/aakash.jpg" alt="Aakash Singh">
+                                                    <div class="team-social">
+                                                        <ul>
+                                                            <li><a href="https://www.facebook.com/aakash.singh.376695"><i class="fa fa-facebook"></i></a></li>
+                                                            <li><a href="https://twitter.com/aakash_world"><i class="fa fa-twitter"></i></a></li>
+                                                            <li><a href="https://GitHub.com/aakashrajput"><i class="fa fa-github"></i></a></li>
+                                                            <li><a href="https://www.linkedin.com/in/aakash-singh-4125b4163/"><i class="fa fa-linkedin"></i></a></li>
+                                                        </ul>
+                                                    </div>
+                                                    <!-- END team-social-->
+                                                </div>
+                                                <!-- END team-img-->
+                                                <div class="team-info text-center">
+                                                    <h4>Aakash Singh</h4>
+                                                    <p>Web Development</p>
                                                 </div>
                                                 <!-- END team-info-->
                                             </div>
