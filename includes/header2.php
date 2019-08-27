@@ -43,7 +43,8 @@
             <div class="collapse navbar-collapse ml-auto" id="main-navbar">
                 <div class="sidebar-brand"><a href="./"><img src="img/logo.png" alt="Dashcore Template" class="logo"></a></div>
                 <ul class="nav navbar-nav mr-auto">
-                    <li class="nav-item"><a class="nav-link" href="index.php">Home</a></li>
+                  <li class="nav-item"><a class="nav-link" href="index.php">Home</a></li>
+                    <li class="nav-item"><a class="nav-link" href="teams.php">Team</a></li>
                     <li class="nav-item d-md-none d-lg-block"><a class="nav-link" href="events.php">Events</a></li>
                     <li class="nav-item"><a class="nav-link" href="contact.php">Contact</a></li>
                     <li class="nav-item"><a class="nav-link" target="_blank" href="https://acquirehowto.com/">Blog</a></li>

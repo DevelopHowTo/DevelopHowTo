@@ -49,7 +49,7 @@
                 <div class="sidebar-brand"><a href="./"><img src="img/logo.png" alt="Dashcore Template" class="logo"></a></div>
                 <ul class="nav navbar-nav ml-auto">
                   <li class="nav-item"><a class="nav-link" href="./">Home</a></li>
-                    <li class="nav-item"><a class="nav-link" href="./tutors.php">Tutors</a></li>
+                    <li class="nav-item"><a class="nav-link" href="./teams.php">Team</a></li>
                     <li class="nav-item"><a class="nav-link" href="events.php">Events</a></li>
                     <li class="nav-item"><a class="nav-link" href="contact.php">Contact</a></li>
                     <li class="nav-item"><a class="nav-link" target="_blank" href="https://acquirehowto.com/">Blog</a></li>
