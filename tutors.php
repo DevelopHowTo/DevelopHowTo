@@ -63,27 +63,7 @@
                                                             </figure>
                                                         </a>
                                                     </li>
-                                                    <li class="wow zoomIn" data-wow-duration="1s" data-wow-delay=".5s">
-                                                        <a href="#team-3" data-team="team-3">
-                                                            <figure>
-                                                                <img src="./img/piyush.jpg" alt="Team Member image three">
-                                                            </figure>
-                                                        </a>
-                                                    </li>
-                                                    <li class="wow zoomIn" data-wow-duration="1s" data-wow-delay=".7s">
-                                                        <a href="#team-4" data-team="team-4">
-                                                            <figure>
-                                                                <img src="./img/juhi.jpg" alt="Team Member image four">
-                                                            </figure>
-                                                        </a>
-                                                    </li>
-                                                    <li class="wow zoomIn" data-wow-duration="1s" data-wow-delay=".7s">
-                                                        <a href="#team-5" data-team="team-5">
-                                                            <figure>
-                                                                <img src="./img/avinash.jpg" alt="Team Member image four">
-                                                            </figure>
-                                                        </a>
-                                                    </li>
+                                                    
                                                 </ul>
                                             </div>
                                             <!-- END team-list-->
@@ -137,72 +117,8 @@
                                             <!-- END team-single-->
 
 
-                                            <div id="team-3" class="team-single">
-                                                <div class="team-img">
-                                                    <img src="./img/piyush.jpg" alt="">
-                                                    <div class="team-social">
-                                                        <ul>
-                                                            <li><a href="https://www.facebook.com/profile.php?id=100002501443596"><i class="fa fa-facebook"></i></a></li>
-                                                            <li><a href="https://twitter.com/Piyush_j_p/"><i class="fa fa-twitter"></i></a></li>
-                                                            <li><a href=""><i class="fa fa-github"></i></a></li>
-                                                            <li><a href="https://www.linkedin.com/in/piyush-jain-9b221b146"><i class="fa fa-linkedin"></i></a></li>
-                                                        </ul>
-                                                    </div>
-                                                    <!-- END team-social-->
-                                                </div>
-                                                <!-- END team-img-->
-                                                <div class="team-info text-center">
-                                                    <h4>Piyush</h4>
-                                                    <p>Internet of Things &amp; Web</p>
-                                                </div>
-                                                <!-- END team-info-->
-                                            </div>
-                                            <!-- END team-single-->
 
 
-                                            <div id="team-4" class="team-single">
-                                                <div class="team-img">
-                                                    <img src="./img/juhi.jpg" alt="">
-                                                    <div class="team-social">
-                                                        <ul>
-                                                            <li><a href="https://www.facebook.com/juhi.dadhich.7"><i class="fa fa-facebook"></i></a></li>
-                                                            <!--li><a href=""><i class="fa fa-twitter"></i></a></li>
-                                                            <li><a href=""><i class="fa fa-github"></i></a></li-->
-                                                            <li><a href="https://www.linkedin.com/in/juhi-dadhich-b8647016b"><i class="fa fa-linkedin"></i></a></li>
-                                                        </ul>
-                                                    </div>
-                                                    <!-- END team-social-->
-                                                </div>
-                                                <!-- END team-img-->
-                                                <div class="team-info text-center">
-                                                    <h4>Juhi Dadhich</h4>
-                                                    <p>Internet of Things &amp; Web</p>
-                                                </div>
-                                                <!-- END team-info-->
-                                            </div>
-                                            <!-- END team-single-->
-
-                                            <div id="team-5" class="team-single">
-                                                <div class="team-img">
-                                                    <img src="./img/avinash.jpg" alt="">
-                                                    <div class="team-social">
-                                                        <ul>
-                                                            <li><a href="https://www.facebook.com/juhi.dadhich.7"><i class="fa fa-facebook"></i></a></li>
-                                                            <!--li><a href=""><i class="fa fa-twitter"></i></a></li>
-                                                            <li><a href=""><i class="fa fa-github"></i></a></li-->
-                                                            <li><a href="https://www.linkedin.com/in/juhi-dadhich-b8647016b"><i class="fa fa-linkedin"></i></a></li>
-                                                        </ul>
-                                                    </div>
-                                                    <!-- END team-social-->
-                                                </div>
-                                                <!-- END team-img-->
-                                                <div class="team-info text-center">
-                                                    <h4>Avinash Verma</h4>
-                                                    <p>Digital Marketing &amp; Web</p>
-                                                </div>
-                                                <!-- END team-info-->
-                                            </div>
-                                            <!-- END team-single-->
 
                                         </div>
                                         <!-- END col-sm-8-->
