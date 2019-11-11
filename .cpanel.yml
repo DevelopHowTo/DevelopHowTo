@@ -1,7 +1,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/user/public_html/DevelopHowTo
+    - export DEPLOYPATH=/home/user/public_html/DevelopHowTo/
     - /bin/cp * $DEPLOYPATH
-    - /bin/cp index.php $DEPLOYPATH
-    - /bin/cp ./includes/ $DEPLOYPATH
