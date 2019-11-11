@@ -2,4 +2,4 @@
 deployment:
   tasks:
     - export DEPLOYPATH=/home/sainox/public_html/develophowto/
-    - /bin/cp * $DEPLOYPATH
+    - /bin/cp  -r * $DEPLOYPATH
