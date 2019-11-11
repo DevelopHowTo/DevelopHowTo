@@ -1,5 +1,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/user/public_html/DevelopHowTo/
+    - export DEPLOYPATH=/home/sainox/public_html/develophowto/
     - /bin/cp * $DEPLOYPATH
