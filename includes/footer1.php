@@ -6,7 +6,7 @@
                     </div>
                     <div class="col-md-2">
                         <h6 class="py-2 bold">Company</h6>
-                        <nav class="nav flex-column"><a class="nav-item py-2" href="about.php">About</a> <a class="nav-item py-2" href="courses.develophowto.com">Courses</a> <a class="nav-item py-2" href="blog/blog-grid.html">Blog</a></nav>
+                        <nav class="nav flex-column"><a class="nav-item py-2" href="about.php">About</a> <a class="nav-item py-2" href="courses.develophowto.com">Courses</a> <a class="nav-item py-2" href="blog/blog-grid.html">Sainox</a></nav>
                     </div>
                     <div class="col-md-2">
                         <h6 class="py-2 bold">Projects</h6>
